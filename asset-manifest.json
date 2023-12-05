@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Food-shop/static/css/main.623a7bfd.css",
+    "main.js": "/Food-shop/static/js/main.937df818.js",
+    "static/media/Pacifico-Regular.ttf": "/Food-shop/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
+    "index.html": "/Food-shop/index.html",
+    "main.623a7bfd.css.map": "/Food-shop/static/css/main.623a7bfd.css.map",
+    "main.937df818.js.map": "/Food-shop/static/js/main.937df818.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.623a7bfd.css",
+    "static/js/main.937df818.js"
+  ]
+}

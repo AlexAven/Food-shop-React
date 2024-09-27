@@ -1,4 +1,11 @@
-# Hi there! This is my React Food Shop Portfolio Project.
-Please, take a look on it:
-[Click!](https://AlexAven.github.io/Food-shop).
-
+## Макет single-page-apllication сайта с рецептами блюд
+## Описание работы
+Проект выполнен на React 18.
+Для осуществления роутинга применялся React-router v6.
+Для заполнения сайта контентом использвался API возвращаюий при запросе данных рецепты блюд и их описание в формате JSON.
+## Установка
+- Клонировать репозиторий;
+- Установить (если не были установлены ранее) [NodeJS и NPM];
+- Выполнить в терминале команду `npm install`;
+## Запуск проекта
+`npm run start` или `npm start` запустит проект на https://localhost:3000;
